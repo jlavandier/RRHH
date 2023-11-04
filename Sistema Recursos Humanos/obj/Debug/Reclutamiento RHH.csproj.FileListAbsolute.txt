@@ -1,0 +1,73 @@
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\Sistema Recursos Humanos.exe.config
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\Sistema Recursos Humanos.exe
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\Sistema Recursos Humanos.pdb
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\EnvDTE.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\stdole.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Reclutamiento RHH.csproj.AssemblyReference.cache
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.PRESENTACION.Form1.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.FrmCandidatos.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.FrmCapacitacion.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.FrmCompetencias.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.PRESENTACION.FrmEmpleados.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.FrmExperiencias.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.FrmIdiomas.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.PRESENTACION.FrmInforme.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.FrmPuestos.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.PRESENTACION.FrmSeleccion.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.PRESENTACION.FrmUsuarios.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.Login.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.MenuConsul.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.MenuAdmin.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema_Recursos_Humanos.Properties.Resources.resources
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Reclutamiento RHH.csproj.GenerateResource.cache
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Reclutamiento RHH.csproj.CoreCompileInputs.cache
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Reclutamiento RHH.csproj.CopyComplete
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema Recursos Humanos.exe
+C:\Users\eljav\Source\Repos\Sistema-Recursos-Humanos\Sistema Recursos Humanos\obj\Debug\Sistema Recursos Humanos.pdb
